@@ -93,10 +93,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "old : moni or archrua  now : monilua"
+  name             : "old : moni or archrua  
+  now : monilua"
   avatar           : "/assets/images/profile/profile_son.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** developer."
-  location         : "Somewhere in republic of korea"
+  # location         : "Somewhere in the Republic of Korea"
+  location         : "the Republic of Korea"
   # email            : "monilua3"
   links:
     - label: "Email"
